@@ -36,6 +36,8 @@ N - toggle dumb bot (right paddle)
 D - toggle ball target indicator (only when smart bot is active)
 I - toggle control indicator visibility
 R - reset the ball location and velocity (center)
+M - toggle mute
+V - toggle win condition
 
 ESC - close the program
 SPACE - pause/start game
